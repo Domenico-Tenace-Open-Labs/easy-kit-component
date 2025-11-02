@@ -1,6 +1,4 @@
 # Easy Kit Component 🛠
-<a href="https://app.commanddash.io/agent?github=https://github.com/DomeT99/easy-kit-component"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
-[![NPM Package](https://badgen.net/npm/v/easy-kit-component)](https://npmjs.com/package/easy-kit-component)
 
 Simple components kit for Vue 3!
 
